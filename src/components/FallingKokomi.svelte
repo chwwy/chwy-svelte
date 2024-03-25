@@ -60,7 +60,7 @@
 </script>
 
 {#each images as { left, top, opacity, rotation, size }, i}
-  <img src="./src/components/images/kokomirain.png" alt="Falling" style="
+  <img src="https://www.pngall.com/wp-content/uploads/15/Kokomi-PNG-HD-Image.png" alt="Falling" style="
     position: absolute;
     left: {left}px;
     top: {top}px;
