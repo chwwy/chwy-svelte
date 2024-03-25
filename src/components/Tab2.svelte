@@ -15,7 +15,12 @@
             console.error('Error fetching latest video:', error);
         }
     }
-    await loadLatestVideo(); 
+
+    async function initialize() {
+        await loadLatestVideo(); 
+    }
+
+    initialize();
 </script>
 
 
