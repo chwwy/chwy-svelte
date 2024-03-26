@@ -19,6 +19,9 @@ body {
   overflow: hidden !important;
 }
 
-#default-tab-content {
-  overflow: auto !important;
+@media screen and (max-width: 640px) {
+  .left-0,
+  .right-0 {
+    width: 100% !important;
+  }
 }
