@@ -2,13 +2,13 @@
   export { default as IntroContent } from "../components/Intro.svelte";
 </script>
 
-<div class="main-title text-2xl text-pink-100">🐇 hi! i'm chwy~</div>
-<div class="paragraph text-base gap-px text-pink-100/75">
+<div class="main-title sm:text-2xl text-base text-pink-100">🐇 hi! i'm chwy~</div>
+<div class="paragraph sm:text-base text-sm gap-px text-pink-100/75">
   i write. i code (sometimes). i play games. i like music. i'm a computer
   science student who does odd jobs for $$$ 💸 <br /><br /> i accept offers not limited
   to my major (seriously) reach me out at:
 </div>
-<div id="contactme" class="flex flex-row flex-wrap gap-2">
+<div id="contactme" class="flex flex-wrap flex-row sm:gap-2 gap-1">
   <a
     class="backdrop-blur-xl p-1.5 button shadow border-2 bg-pink-100/10 rounded-lg flex border-pink-100/20 hover:bg-pink-100/50 duration-100"
     href="https://twitter.com/ccchwyy"
@@ -154,5 +154,8 @@
   and
   <a class="text-blue-100 hover:underline" href="https://tailwindcss.com"
     >tailwindcss</a
-  >
+  ><br><br>
+  <div class="sm:hidden bottom-0 text-xs text-pink-100/75">
+  view the full version of site on desktop 👻
+  </div>
 </div>
