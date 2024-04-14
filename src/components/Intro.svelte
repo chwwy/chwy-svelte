@@ -2,7 +2,7 @@
   export { default as IntroContent } from "../components/Intro.svelte";
 </script>
 
-<div class="main-title sm:text-2xl lg:text-lg text-base text-pink-100">🐇 hi! i'm chwy~</div>
+<div class="main-title sm:text-2xl lg:text-lg text-base text-pink-100">🐇 hi! i'm chwy~ </div>
 <div class="paragraph sm:text-base md:text-base text-sm gap-px text-pink-100/75">
   i write. i code (sometimes). i play games. i like music. i'm a computer
   science student who does odd jobs for $$$ 💸 <br /><br /> i accept offers not limited

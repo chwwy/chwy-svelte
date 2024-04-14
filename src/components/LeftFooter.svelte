@@ -2,7 +2,7 @@
     export { default as LFooter } from '../components/LeftFooter.svelte';
 </script>
 
-<a href="https://chwy.blog/" class="overflow-hidden">
+<a href="https://chwy.blog/" target="_blank" class="overflow-hidden">
     <div id="default-tab-content" class="py-3 px-4 ">
         <div id="default-tab-title" class="text-xl text-pink-100 mb-2 flex flex-row flex-wrap gap-2 overflow-hidden">
             <div class="social-icon">
