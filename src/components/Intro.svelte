@@ -2,8 +2,8 @@
   export { default as IntroContent } from "../components/Intro.svelte";
 </script>
 
-<div class="main-title sm:text-2xl text-base text-pink-100">🐇 hi! i'm chwy~</div>
-<div class="paragraph sm:text-base text-sm gap-px text-pink-100/75">
+<div class="main-title sm:text-2xl lg:text-lg text-base text-pink-100">🐇 hi! i'm chwy~</div>
+<div class="paragraph sm:text-base md:text-base text-sm gap-px text-pink-100/75">
   i write. i code (sometimes). i play games. i like music. i'm a computer
   science student who does odd jobs for $$$ 💸 <br /><br /> i accept offers not limited
   to my major (seriously) reach me out at:
@@ -11,7 +11,7 @@
 <div id="contactme" class="flex flex-wrap flex-row sm:gap-2 gap-1">
   <a
     class="backdrop-blur-xl p-1.5 button shadow border-2 bg-pink-100/10 rounded-lg flex border-pink-100/20 hover:bg-pink-100/50 duration-100"
-    href="https://twitter.com/ccchwyy"
+    href="https://twitter.com/chwyfe"
     aria-label="twitter"
     target="_blank"
   >
@@ -123,27 +123,11 @@
   </a>
   <a
     class="backdrop-blur-xl p-1.5 button shadow border-2 rounded-lg bg-pink-100/10 flex border-pink-100/20 hover:bg-pink-100/50 duration-100"
-    href="https://medium.com/@naolyst"
+    href="https://chwy.blog/rss.xml"
     aria-label="twitch"
     target="_blank"
   >
-    <svg
-      xmlns="http://www.w3.org/2000/svg"
-      width="24"
-      height="24"
-      viewBox="0 0 24 24"
-      fill="none"
-      stroke="#FFFFFF"
-      stroke-width="1.5"
-      stroke-linecap="round"
-      stroke-linejoin="round"
-      class="icon icon-tabler icons-tabler-outline icon-tabler-brand-medium"
-      ><path stroke="none" d="M0 0h24v24H0z" fill="none" /><path
-        d="M4 4m0 2a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2z"
-      /><path d="M8 9h1l3 3l3 -3h1" /><path d="M8 15l2 0" /><path
-        d="M14 15l2 0"
-      /><path d="M9 9l0 6" /><path d="M15 9l0 6" /></svg
-    >
+  <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="#FFFFFF"  stroke-width="1.5"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-rss"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 19m-1 0a1 1 0 1 0 2 0a1 1 0 1 0 -2 0" /><path d="M4 4a16 16 0 0 1 16 16" /><path d="M4 11a9 9 0 0 1 9 9" /></svg>
   </a>
 </div>
 <div class="footer bottom-0 text-xs text-pink-100/75">
