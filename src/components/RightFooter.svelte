@@ -19,9 +19,7 @@
             </div>
         </div>
         <div class="social-desc text-sm text-pink-100/50 overflow-hidden">
-            i'm mostly active on discord :3 come join my server <a target="_blank" class="text-blue-100/60 hover:underline" href="https://discord.gg/chwy"
-            >here</a
-          >
+            i'm mostly active on discord :3 <br> feel free to add me!
         </div>
     
     </div>

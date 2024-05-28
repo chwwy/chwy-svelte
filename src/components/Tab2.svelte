@@ -8,8 +8,8 @@
         things about me (sigh) 😖
     </div>
     <div id="default-tab-content" class="lg:text-sm text-xs text-pink-100/75 leading-relaxed">
-        Q: why are you online 24/7? <br>
-        A: i'm not. i just respond fast (when i know you, that is)
+        Q: what's ur rank <br>
+        A: immo 🥇
         <br> <br> 
         Q: what's your mbti? <br>
         A: infp-t 😺
@@ -17,10 +17,10 @@
         Q: what fun stuff do u like? <br>
         A: taylor swift, pierce the veil, mitski
         <br><br>
-        Q: do u not go outside :) <br>    
-        A: you'd be surprised (i have a normal life)<br><br>
+        Q: recommend me a book pls <br>    
+        A: art of happiness by epicurus!<br><br>
         <div id="default-tab-title" class="lg:text-xl text-lg text-pink-100 mb-2">
-            that's it. cya~ 💗
+            cya~ 💗 pls hire me
         </div>
     </div>
 </div>

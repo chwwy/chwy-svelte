@@ -7,19 +7,17 @@
         you found my web! 👋
     </div>
     <div id="default-tab-content" class="lg:text-sm text-xs text-pink-100/75 leading-relaxed">
-        hi! i'm nao (she/her), i'm 19 years old. i'm bilingual (english-indo) and know some japanese, russian, and korean. i love mathematics and literature - numbers and letters. i code on the side and manage projects full time, sometimes translating when needed 💖 oh, i also like illustrating.
+        hi! i'm 19 years old. i'm bilingual (english-indo) and know some japanese, russian, and korean. i love mathematics n literature 💖 i'd like to think i'm a great asset to have because i tend to hyperfocus and do not like when my task is not finished. i also have managed projects in the past.
+        <br><br>
+        i am communicative and is a fast learner - i can easily adapt and is not afraid to say "i don't know" so i won't be wasting your time by pretending to be a know-it-all. oh, i also am not afraid to ask questions.
         <br><br>
     </div>
     <div id="default-tab-title" class="lg:text-xl text-lg text-pink-100 mb-2">
-        things i like:
+        things of interest:
     </div>
     <div id="default-tab-content" class="lg:text-sm text-xs text-pink-100/75 leading-relaxed">
-        <li>web development</li>
-        <li>fps and rpg games</li>
-        <li>sangonomiya kokomi</li>
-        <li>alternative music</li>
-        <li>studying (really)</li>
+        <li>artifical intelligence</li>
+        <li>frontend web dev, etc</li>
         <br>
-        i also love reading books 😎 hmu for book recs
     </div>
 </div>

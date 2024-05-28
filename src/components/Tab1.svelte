@@ -11,18 +11,18 @@
         <!-- 
         i'm 19 years old, my pronouns are she/her, and i'm open to discuss about everything. i'm pretty liberal and individualistic. i prioritize my work before anything else and i enjoy working myself to the bone. i can't stay still for more than 30 minutes without tinkering with something. that's why i do everything: i cook, bake, paint, draw, sculpt, write, code, you name it - i do it. -->
 
-        my pronouns are she/her. i do basically everything. i was an international student, the youngest daughter in a loving family of 4, and a proud cat owner (my cat's name is michelle). my favorite color is #FFD1DC and my favorite food is 麻辣香锅. i'm red/green color blind (it's not too bad, don't worry)
+        my pronouns are she/her. i do basically everything. i'm an avid book reader, the youngest daughter in a loving family of 4, and a proud cat owner (my cat's name is michelle). my favorite color is #FFD1DC. 
         <br> <br>
-        i'm also a high-functioning autistic and is allergic/intolerant to most of the things you probably like (bananas and milk, for starters)
+        i play video games a lot and i'm a huge listener of taylor swift and shoegaze (wisp and whirr). i'm a student of both literature and computer science and i'd like to think that i'm not bad at either of it.
         <br><br>
     </div>
     <div id="default-tab-title" class="lg:text-xl text-lg text-pink-100 mb-2">
-        what my head is full with:
+        what i'm currently learning:
     </div>
     <div id="default-tab-content" class="lg:text-sm text-xs text-pink-100/75 leading-relaxed">
-        <li>javascript and web development</li>
-        <li>my crypto portfolio 😔📉</li>
-        <li>college assignments</li>
-        <li>bunch of nonsense</li>
+        <li>javascript</li>
+        <li>sveltekit</li>
+        <li>flutter</li>
+        <li>etc.</li>
     </div>
 </div>
